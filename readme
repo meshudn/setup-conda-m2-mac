@@ -23,6 +23,8 @@ python -m pip install tensorflow-metal
 
 6. Let's run a script to confirm the installation. Lets install these packages.
 
+pip install chardet (if you have 500 internal error)
+
 conda install jupyter pandas numpy matplotlib scikit-learn
 
 7. Run jupyter notebook
